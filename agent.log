@@ -1,0 +1,5 @@
+2026-08-11 10:53:03,078 - INFO - Loading model from: C:\Users\150 LAB\Downloads\fixed\best_ckd_model.pkl
+2026-08-11 10:53:03,826 - INFO - Artifacts loaded successfully. CKD corresponds to model.classes_ index 0.
+2026-08-11 10:53:18,986 - INFO - Saved record for Patient ID: PID-1001
+2026-08-11 11:01:12,845 - INFO - Loading model from: C:\Users\150 LAB\Downloads\CKD AI Monitoring Agent\best_ckd_model.pkl
+2026-08-11 11:01:13,584 - INFO - Artifacts loaded successfully. CKD corresponds to model.classes_ index 0.
